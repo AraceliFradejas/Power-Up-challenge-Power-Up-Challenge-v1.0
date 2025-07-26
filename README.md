@@ -1,8 +1,5 @@
 # Power-Up-challenge-Power-Up-Challenge-v1.0
 
-This project is the final result of the **Microsoft Power Up Challenge**, where I designed and deployed a full parking request and inspection system using the entire Power Platform stack.
----
-
 ## ✨ About this solution
 
 The solution simulates how a business or school can manage daily parking requests and inspections using:
